@@ -1,3 +1,11 @@
+This repository is about trying different noise and finding hoe to remove them. I started with Salt and Pepper noise.
+
+### Usage
+```console
+$ pip install -r requirements.txt
+$ python3 main.py
+```
+
 ## What are noises
 Random variation of brightness or color information in images. It can be produced by sensor or circuitry of an electronic device
 ### Examples
