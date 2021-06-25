@@ -1,3 +1,5 @@
+// COPIED FROM GFG
+
 #include <fstream>
 #include <iostream>
 #include <sstream>
@@ -13,7 +15,7 @@ int main()
 	int i, row = 0, j = 0, col = 0, numrows = 0, numcols = 0, MAX = 0;
 	
 	// input image
-	ifstream infile("saltpepper.pgm");
+	ifstream infile("sunflower_sp.pgm");
 	stringstream ss;
 	string inputLine = "";
 
